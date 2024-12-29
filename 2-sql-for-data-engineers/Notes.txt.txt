@@ -1,0 +1,27 @@
+SQL is the bread and butter of data engineering. You need to know how to use SQL to manipulate data and deeply understand your data.
+
+In these posts, you will review the basics of SQL and the approach to getting good at large-scale data processing with SQL, CTEs, and window functions.
+
+In addition to knowing SQL, you should also know the context of using SQL for data engineering.
+
+Here is a list of articles that you need to read/watch for this lesson 👇
+
+​> Setup​ <https://click.convertkit-mail2.com/lmu9q28398t6udqekou6h8lmg400cg/58hvh7hm28qeooh6/aHR0cHM6Ly9naXRodWIuY29tL2pvc2VwaG1hY2hhZG8vYWR2X2RhdGFfdHJhbnNmb3JtYXRpb25faW5fc3FsL3RyZWUvbWFpbj90YWI9cmVhZG1lLW92LWZpbGUjc2V0dXA=>
+
+
+​> Basics​
+
+​> Live workshop where I go over Windows, CTEs, and common query templates.
+
+​> Windows​
+
+​> CTEs​
+
+​> Common query templates​
+
+​
+
+Assignment:
+
+The notebooks covering Windows, CTEs and common query patterns have exercises please complete them and check your solutions against these: windows solutions, CTE solutions, and query template solutions.
+​
