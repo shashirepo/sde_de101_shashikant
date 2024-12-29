@@ -6,8 +6,7 @@ In addition to knowing SQL, you should also know the context of using SQL for da
 
 Here is a list of articles that you need to read/watch for this lesson 👇
 
-​> Setup​ <https://click.convertkit-mail2.com/lmu9q28398t6udqekou6h8lmg400cg/58hvh7hm28qeooh6/aHR0cHM6Ly9naXRodWIuY29tL2pvc2VwaG1hY2hhZG8vYWR2X2RhdGFfdHJhbnNmb3JtYXRpb25faW5fc3FsL3RyZWUvbWFpbj90YWI9cmVhZG1lLW92LWZpbGUjc2V0dXA=>
-
+> Setup <https://github.com/josephmachado/adv_data_transformation_in_sql/tree/main?tab=readme-ov-file#setup>
 
 ​> Basics​
 
